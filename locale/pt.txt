@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Av. República do Líbano, 1673 - Moema, São Paulo - SP, 04501-001
+
+### Title
+tour.name = Engeasco - OPT.DOC
+
+## Skin
+
+### Button
+Button_ABEA10FA_8BCA_CDF9_41D4_7C88CC92F8F3.label = Clique e Acesse nosso Site
+Button_ABEA10FA_8BCA_CDF9_41D4_7C88CC92F8F3_mobile.label = Clique e Acesse nosso Site
+
+## Media
+
+### Title
+panorama_A801D57C_8BCA_54F9_41CD_DA348425A95D.label = Fachada
+panorama_ABE68FA0_8BCB_D409_41CD_7B4770324151.label = drone
+
+## Action
+
+### URL
+LinkBehaviour_A87784B0_8BC6_5409_41D2_F97AF00D8CF3.source = https://www.engeasco.com.br/
+LinkBehaviour_A9EEAB43_8BC6_7C0F_41C8_DD84AD98384B.source = https://www.engeasco.com.br/
